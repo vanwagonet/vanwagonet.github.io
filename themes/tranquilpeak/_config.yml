@@ -68,6 +68,10 @@ sidebar:
             title: Keybase
             url: https://keybase.io/thetalecrafter
             icon: key
+        coinbase:
+            title: Coinbase
+            url: https://www.coinbase.com/thetalecrafter
+            icon: btc
         # mail:
         #     title: Mail
         #     url: mailto://
