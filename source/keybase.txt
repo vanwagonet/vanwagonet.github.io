@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/thetalecrafter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://thetalecrafter.github.io
+  * I am thetalecrafter (https://keybase.io/thetalecrafter) on keybase.
+  * I have a public key with fingerprint 66B2 DBF1 EA5D 38E3 04EE  E668 53EC A0D2 EFBE DBE5
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.9"
+        },
+        "key": {
+            "fingerprint": "66b2dbf1ea5d38e304eee66853eca0d2efbedbe5",
+            "host": "keybase.io",
+            "key_id": "53ECA0D2EFBEDBE5",
+            "uid": "aaccea641ef3a5e7de5072c7e0639019",
+            "username": "thetalecrafter"
+        },
+        "merkle_root": {
+            "ctime": 1433614725,
+            "hash": "8b87d3febf88cfeadcf08e7acc7cbda8b623b86e0a277b9ddc37ce96c27169c31ad3a74fe6cbc4c29b18b7fc6d7b2ff08f74658fdb0ef4cb89fc8782bdaa0074",
+            "seqno": 241827
+        },
+        "service": {
+            "hostname": "thetalecrafter.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433614803,
+    "expire_in": 157680000,
+    "prev": "b9fdb1fc709f768910b888aed80721f973c3167000e61fc2781c9202501cf5c9",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtkn9MVWUYxy8IdwgSTiig0bw7/gIjdn7cc95zKCL5oVabqAmWTm7nfc97uIcf
+91zOuVwkQEXMmW6ISSWFm8oMlaElMWO0hkSE4cZwUDOkQRfHCBICp1NKO4do5db5
+65zzfp7v83y/z1sdusgS7PfG5KkbU18P3vbrGYeWTF3oLyWgKpUQiaUEylewy2O+
+ucQCTCQSebgEijpOUFSbS5VwQq5uW2DiCS/WdEV1GRSZABIEojzexM1iWXHlYM2t
+KaYWwXGQlqBMYZGVGB4zpB1jzHE8y2AkkhKNZYgliFlD0qnqnie6EvOaDkUy/rJM
+euo6Mo1OX5+SnpaSbvJF8weiiBAWOTuFZUZkMZAwSwIaAUxyjEBSggnqWFuw5HFi
+j5iPkSbKHqyZUxdgLS8fOzRVnbeOPIoJUnaG4Sg7oFljLlF3GqU85IHEyBjKPI9k
+LEpIJnkMjPYAQUnkIUczkOcwKdIAQEGSEAMQFjhEA4oTEEOJEiMCu4w5BJEd0QKk
+eAhkxEkA0rKhJQM7x/KyBEks2xHkBRnxgKcNbZEkgd0wouNCl0ok0naKp0G5+a15
+FYTNuc3w/tdjQo7icRbBv+N0a6pHRWq+QTk97RaPW080M/CUuM3CYgwdC5IOqLgk
+Y5H/3TRlkE/Gw5NMPIF3uxUNOxSTYAHHk8ZjdsJeQxIKhh9KRoAUZONMoEjI87yI
+Jd5YEiULgDGC4YBRgjkDowFPIYEmaZakkMwi4V/TgjGmmGNI6kqOS/QUaZgof88/
+JsDiF2yxBvqbV9kSvHjpP/d7MjLscfrU6NralN/egan7zkk+Xl9a8PuuuqX5YdHu
+zLZmzRU9FnWpZduPnWF9UTXPhDcXb9pY3JisZhRGHG/6sDV2daDNXdv3QXhLZdfJ
+79SEhocHI/oLH+3vnM2N6NwT7WBGY48tqTsf3/X9r0vKW9fA0ktZiyP3nf92c/90
+cuPbvtg/79YnJUu7w/tWVbJnMiJTt368d+6lNmbTuD5872a7dHj12qn+Iwee3dL0
+Kr1942RoYx8Ycb8wkH2te/mqju2nxqZG1IHpOjU+O+aY9fIPvSHU+1mh7t7aAUfo
+Dm//cOmIXCUstgb2OS5XWiu+vP7KWOlpq/e1qtGjQ289ynp558pIsTvuuaLung3D
+F5viNqQMPH20Y+W69mt6wKUucfuMw9fL1viX6vXJV4bTvDEu5dyhbQdm+GWbr+69
+d9s30TobfcG54t1fkrIe7Omd65wJWHFn+FBI3J1F41U/R3z+lbomZgd0fpQ+SRdo
+0zu7v8hc/snx6y1BI1cOOehbBe7E6IweV81ExXRQ2/hnyzZetAz5xv54PcpbcWpU
+KrOHl2ydmEuqv/HmTZs8tF8Nefi49lbZyZnqsOyaQd/6Tu3F5twJ28Ey3yCRHxc0
+feJwdsZTW62nbXknrvY/P4ZTdqVYA7i0+2cbLjR0fXr3zJa5kRjb2fuzbeUPyOrN
+tW46oL7jm7LJIz+J5XNaZ+1f
+=TnDj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thetalecrafter
+
+==================================================================
+

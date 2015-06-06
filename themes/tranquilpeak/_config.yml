@@ -40,18 +40,18 @@ sidebar:
             url: /#about
             icon: question
     author_links:
-        # github:
-        #     title: GitHub
-        #     url: https://github.com/
-        #     icon: github
-        # stack_overflow:
-        #     title: Stack Overflow
-        #     url: http://stackoverflow.com/users/
-        #     icon: stack-overflow
-        # twitter:
-        #     title: Twitter
-        #     url: https://twitter.com/
-        #     icon: twitter
+        github:
+            title: GitHub
+            url: https://github.com/thetalecrafter
+            icon: github
+        stack_overflow:
+            title: Stack Overflow
+            url: http://stackoverflow.com/users/1701761/andy-vanwagoner
+            icon: stack-overflow
+        twitter:
+            title: Twitter
+            url: https://twitter.com/thetalecrafter
+            icon: twitter
         # facebook:
         #     title: Facebook
         #     url: https://www.facebook.com/
@@ -60,26 +60,30 @@ sidebar:
         #     title: Google +
         #     url: https://plus.google.com/
         #     icon: google-plus
-        # linked_in:
-        #     title: Linked In
-        #     url: https://www.linkedin.com/profile/
-        #     icon: linkedin
+        linked_in:
+            title: Linked In
+            url: https://www.linkedin.com/in/andrewvanwagoner
+            icon: linkedin
+        keybase:
+            title: Keybase
+            url: https://keybase.io/thetalecrafter
+            icon: key
         # mail:
         #     title: Mail
         #     url: mailto://
         #     icon: envelope-o
     rss:
         rss:
-            title: RSS
+            title: Feed
             url: /atom.xml
             icon: rss
 
 # Author
 author:
-    email:
-    bio:
-    job:
-    location:
+    email: thetalecrafter@gmail.com
+    bio: Just trying to make the world a little better
+    job: Software Engineer
+    location: Utah
     picture:    # Your profile picture located in folder `source/_images/` (development)
                 # or in `source/assets/images/` (production)
                 # Overwritten by your gravatar image if `gravatar_image` is enabled
@@ -89,7 +93,7 @@ gravatar_image: 1                      # Enable gravatar image. Using `author.em
 thumbnail_image: 1                     # Display thumbnail image of each post on index pages (disable: 0, enable: 1)
 read_more_message: Continue reading    # Message displayed after the <!-- more --> tag
 go_to_message: Go to the website       # Message displayed after the <!-- more --> tag or after 300 characters for post with link layout
-cover: cover.png                       # Your blog cover picture located in folder `source/_images/` (development) or in `source/assets/images/` (production)
+cover: ice.jpg                         # Your blog cover picture located in folder `source/_images/` (development) or in `source/assets/images/` (production)
 favicon:                               # Your favicon located in folder `source/_images/` (development) or in `source/assets/images/` (production)
 image_gallery: 1                       # Display an image gallery at the end of a post which have photos variables
 
