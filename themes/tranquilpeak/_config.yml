@@ -65,7 +65,7 @@ sidebar:
         #     url: https://plus.google.com/
         #     icon: google-plus
         linked_in:
-            title: Linked In
+            title: LinkedIn
             url: https://www.linkedin.com/in/andrewvanwagoner
             icon: linkedin
         keybase:
@@ -102,7 +102,7 @@ thumbnail_image: 1                     # Display thumbnail image of each post on
 read_more_message: Continue reading    # Message displayed after the <!-- more --> tag
 go_to_message: Go to the website       # Message displayed after the <!-- more --> tag or after 300 characters for post with link layout
 cover: ice.jpg                         # Your blog cover picture located in folder `source/_images/` (development) or in `source/assets/images/` (production)
-favicon:                               # Your favicon located in folder `source/_images/` (development) or in `source/assets/images/` (production)
+favicon: favicon.ico                   # Your favicon located in folder `source/_images/` (development) or in `source/assets/images/` (production)
 image_gallery: 1                       # Display an image gallery at the end of a post which have photos variables
 
 # Miscellaneous
