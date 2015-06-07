@@ -23,6 +23,14 @@ sidebar:
             title: Home
             url: /
             icon: home
+        about:
+            title: About Andy
+            url: /about/
+            icon: user
+        faith:
+            title: Faith
+            url: /faith/
+            icon: shield
         categories:
             title: Categories
             url: /all-categories
@@ -35,10 +43,6 @@ sidebar:
             title: Archives
             url: /all-archives
             icon: archive
-        about:
-            title: About me
-            url: /#about
-            icon: question
     author_links:
         github:
             title: GitHub
