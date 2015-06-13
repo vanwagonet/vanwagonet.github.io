@@ -15,7 +15,7 @@
             <% if (!item.parent) { %>
                 <div id="<%= 'posts-list-' + item.name %>" class="archive box" data-category="<%= item.name.replace('.', '__').replace(' ', '-').toLowerCase() %>">
                     <h4 class="archive-title">
-                        <a class="link-unstyled" href="<%- url_for('categories/' + item.name.replace(' ', '-') )%>"><%= item.name + ' (' + item.length + ')' %></a>
+                        <a class="link-unstyled" href="<%- url_for('categories/' + item.slug )%>"><%= item.name + ' (' + item.length + ')' %></a>
                     </h4>
                     <ul class="archive-posts">
                         <% site.categories.findOne({'name': item.name}).posts.each(function(post) { %>
@@ -27,7 +27,7 @@
                         <% site.categories.find({'parent': item._id}).forEach(function(childItem) { %>
                             <div id="<%= 'posts-list-' + childItem.name %>" class="archive" data-category="<%= childItem.name.replace('.', '__').replace(' ', '-').toLowerCase() %>" data-parent-categories="<%= item.name.replace('.', '__').replace(' ', '-').toLowerCase() %>">
                                 <h5 class="archive-title">
-                                    <a class="link-unstyled" href="<%- url_for('categories/' + item.name.replace(' ', '-') + '/' + childItem.name.replace(' ', '-'))%>"><%= childItem.name + ' (' + childItem.length + ')' %></a>
+                                    <a class="link-unstyled" href="<%- url_for('categories/' + item.slug + '/' + childItem.slug)%>"><%= childItem.name + ' (' + childItem.length + ')' %></a>
                                 </h5>
                                 <ul class="archive-posts">
                                     <% site.categories.findOne({'name': childItem.name}).posts.each(function(post) { %>
@@ -39,7 +39,7 @@
                                     <% site.categories.find({'parent': childItem._id}).forEach(function(childChildItem) { %>
                                         <div id="<%= 'posts-list-' + childChildItem.name %>" class="archive" data-category="<%= childChildItem.name.replace('.', '__').replace(' ', '-').toLowerCase() %>" data-parent-categories="<%= item.name.replace('.', '__').replace(' ', '-').toLowerCase() + ',' + childItem.name.replace('.', '__').replace(' ', '-').toLowerCase() %>">
                                             <h5 class="archive-title">
-                                                <a class="link-unstyled" href="<%- url_for('categories/' + item.name.replace(' ', '-') + '/' + childItem.name.replace(' ', '-') + '/' + childChildItem.name.replace(' ', '-'))%>"><%= childChildItem.name + ' (' + childChildItem.length + ')' %></a>
+                                                <a class="link-unstyled" href="<%- url_for('categories/' + item.slug + '/' + childItem.slug + '/' + childChildItem.slug)%>"><%= childChildItem.name + ' (' + childChildItem.length + ')' %></a>
                                             </h5>
                                             <ul class="archive-posts">
                                                 <% site.categories.findOne({'name': childChildItem.name}).posts.each(function(post) { %>

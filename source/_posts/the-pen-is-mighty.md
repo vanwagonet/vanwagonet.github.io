@@ -7,7 +7,6 @@ tags:
 id: 9
 categories:
   - Ethics and Computers in Society
-  - Faith
 date: 2008-01-30 20:47:01
 ---
 

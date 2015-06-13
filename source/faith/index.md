@@ -7,6 +7,6 @@ To understand my writing, it is important to know my background. [I'm a Mormon](
 
 I invite people to comment on my posts, with the understanding that disrespectful comments will be quickly removed. Disagree if you will, but please be respectful.
 
-All of the posts I write relating to my faith, can be found in the [faith category](http://thetalecrafter.wordpress.com/category/faith/ "Posts on Faith").
+All of the posts I write relating to my faith, can be found in the [faith category](https://thetalecrafter.com/categories/faith/ "Posts on Faith").
 
 I would also encourage those with serious issues with Church history or doctrine to look up their issue at [fairlds.org](http://www.fairlds.org/ "LDS FAIR Apologetics"). People who write there have studied a lot more than I have, and can more accurately address concerns.
