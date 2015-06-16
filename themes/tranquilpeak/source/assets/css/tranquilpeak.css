@@ -532,6 +532,8 @@ blockquote {
   border-bottom: 1px solid #eef2f8; }
 
 .btn {
+  display: inline-block;
+  line-height: 16px;
   width: auto;
   height: auto;
   background: white;
