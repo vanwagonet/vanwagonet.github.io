@@ -106,4 +106,4 @@ favicon: favicon.ico                   # Your favicon located in folder `source/
 image_gallery: 1                       # Display an image gallery at the end of a post which have photos variables
 
 # Miscellaneous
-google_analytics: UA-63838414-1   # Google analystics web property ID : UA-XXXXX-X
+# google_analytics: UA-63838414-1   # Google analystics web property ID : UA-XXXXX-X
