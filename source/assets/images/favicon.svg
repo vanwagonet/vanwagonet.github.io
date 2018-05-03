@@ -8,7 +8,7 @@
     M60 0S36 10.3 24 19.2L20 26v-4c-1.8 1.4-3 2.8-4 4v13.8l.2-.2C26.6 26.6 49.6 6.8 60 0z
     M64 0c-9.7 4.5-46.8 37-51 48 0 0 7 4.5 6.5 0S50.2 9.5 64 0z
   "/>
-  <path class="ink" fill="#314" d="
+  <path class="ink" fill="#2f4f4f" d="
     M33.5 55.6l-7-5.2c-.3-.2-.5-.7-.5-1V47H8v2.3c0 .4-.2 1-.5 1l-7 5.3c-.3.2-.5.7-.5 1V64h34v-7.3c0-.4-.2-1-.5-1z
   "/>
   <path class="jar-lip" fill="none" stroke="#000" stroke-opacity=".5" stroke-linecap="round" d="M6 47h22" stroke-width="2" />

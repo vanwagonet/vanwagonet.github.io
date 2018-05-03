@@ -3,21 +3,26 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.1.1"
+    "version": "3.7.1"
   },
   "dependencies": {
-    "hexo": "^3.1.0",
-    "hexo-deployer-git": "0.0.4",
-    "hexo-generator-archive": "^0.1.2",
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "hexo": "^3.7.1",
+    "hexo-deployer-git": "^0.3.1",
+    "hexo-generator-archive": "^0.1.5",
     "hexo-generator-category": "^0.1.2",
-    "hexo-generator-feed": "^1.0.2",
-    "hexo-generator-index": "^0.1.2",
-    "hexo-generator-tag": "^0.1.1",
+    "hexo-generator-feed": "^1.2.2",
+    "hexo-generator-index": "^0.2.1",
+    "hexo-generator-tag": "^0.2.0",
     "hexo-migrator-wordpress": "^0.1.2",
-    "hexo-renderer-ejs": "^0.1.0",
-    "hexo-renderer-marked": "^0.2.4",
-    "hexo-renderer-react": "0.0.1",
-    "hexo-renderer-stylus": "^0.2.0",
-    "hexo-server": "^0.1.2"
+    "hexo-renderer-ejs": "^0.3.1",
+    "hexo-renderer-marked": "^0.3.2",
+    "hexo-renderer-react": "^1.1.0",
+    "hexo-renderer-stylus": "^0.3.3",
+    "hexo-server": "^0.3.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
   }
 }

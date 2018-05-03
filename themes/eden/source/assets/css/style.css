@@ -1,0 +1,185 @@
+html {
+  background: floralwhite url(billie-holiday.png);
+  color: darkslategray;
+  font-family: Georgia, Cambria, Times New Roman, Times, serif;
+}
+
+body {
+  padding: 0 0 0 16rem;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+article {
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 0.25rem 0.5rem 0.125rem rgba(0, 0, 0, 0.125);
+  hanging-punctuation: first last;
+  margin: 2rem auto;
+  max-width: 48rem;
+  padding: 1rem 2rem;
+}
+
+h2 {
+  margin: 0;
+}
+
+h3 {
+  margin: 1rem;
+}
+
+.meta,
+.tags {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+a {
+  color: teal;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+header a {
+  color: inherit;
+  font-family: Zapfino, Rage Italic, Lucida Handwriting, cursive;
+  font-size: 2rem;
+  text-decoration: none;
+}
+
+header a:hover {
+  text-decoration: none;
+}
+
+.logo {
+  height: 1.5em;
+}
+
+.avatar {
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 0.5rem;
+  width: 5.625rem;
+}
+
+.name {
+  color: inherit;
+  font-family: Zapfino, Rage Italic, Lucida Handwriting, cursive;
+  font-size: 0.75rem;
+  font-weight: bold;
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+}
+
+body > nav {
+  height: 100vh;
+  left: 0;
+  overflow: auto;
+  padding: 2rem;
+  position: fixed;
+  top: 0;
+  width: 16rem;
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0;
+}
+
+.links li {
+  padding: 0;
+  margin: 0.5em 0;
+}
+
+.links a {
+  color: inherit;
+}
+
+.icon {
+  display: inline-block;
+  height: 1em;
+  margin-right: 0.5em;
+  vertical-align: -0.125rem;
+  width: 1em;
+}
+
+.icon path {
+  fill: currentcolor;
+}
+
+.post-footer {
+  margin: 1rem 0;
+}
+
+.pages {
+  display: flex;
+  margin: 2rem auto;
+  max-width: 48rem;
+}
+
+.page {
+  padding: 0 1rem;
+  flex: 1;
+}
+.prev {
+  text-align: right;
+}
+
+.prev::before,
+.next::after {
+  content: "«";
+  display: inline-block;
+  font-size: 1.8em;
+  line-height: 0.65;
+  padding: 0 0.5rem;
+  text-decoration: none;
+  vertical-align: top;
+}
+.next::after {
+  content: "»";
+}
+
+footer {
+  text-align: center;
+}
+
+@media (max-width: 64em) {
+  body {
+    padding: 0;
+  }
+
+  body > nav {
+    height: auto;
+    position: static;
+    text-align: center;
+    width: auto;
+  }
+}
+
+.archive-post {
+  margin-left: 2rem;
+}
+
+.archive-post time {
+  display: inline-block;
+  margin-right: 0.5rem;
+  text-align: right;
+  width: 3rem;
+}
+
+.category--small {
+  margin-right: 0.5rem;
+}
