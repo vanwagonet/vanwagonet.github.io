@@ -64,10 +64,10 @@ sidebar:
             title: LinkedIn
             url: https://www.linkedin.com/in/andrewvanwagoner
             icon: linkedin
-        keybase:
-            title: Keybase
-            url: https://keybase.io/thetalecrafter
-            icon: key
+        # keybase:
+        #     title: Keybase
+        #     url: https://keybase.io/thetalecrafter
+        #     icon: key
         # coinbase:
         #     title: Coinbase
         #     url: https://www.coinbase.com/thetalecrafter
@@ -84,16 +84,17 @@ sidebar:
 
 # Author
 author:
-    email: andy@thetalecrafter.com
+    email: andy@vanwago.net
     bio: Just trying to make the world a little better
     job: Software Engineer
     location: Utah
-    picture:    # Your profile picture located in folder `source/_images/` (development)
+    picture: andy.png
+                # Your profile picture located in folder `source/_images/` (development)
                 # or in `source/assets/images/` (production)
                 # Overwritten by your gravatar image if `gravatar_image` is enabled
 
 # Customization
-gravatar_image: 1                      # Enable gravatar image. Using `author.email` value. (disable: 0, enable: 1). Overwrite `author.picture` everywhere in the blog
+gravatar_image: 0                      # Enable gravatar image. Using `author.email` value. (disable: 0, enable: 1). Overwrite `author.picture` everywhere in the blog
 thumbnail_image: 1                     # Display thumbnail image of each post on index pages (disable: 0, enable: 1)
 read_more_message: Continue reading    # Message displayed after the <!-- more --> tag
 go_to_message: Go to the website       # Message displayed after the <!-- more --> tag or after 300 characters for post with link layout
