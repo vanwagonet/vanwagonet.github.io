@@ -78,4 +78,4 @@ theme: eden
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:thetalecrafter/thetalecrafter.github.io.git
+  repo: git@github.com:vanwagonet/vanwagonet.github.io.git
