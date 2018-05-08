@@ -42,16 +42,16 @@ sidebar:
     author_links:
         github:
             title: GitHub
-            url: https://github.com/thetalecrafter
+            url: https://github.com/vanwagonet
             icon: github
         stack_overflow:
             title: Stack Overflow
             url: http://stackoverflow.com/users/1701761/andy-vanwagoner
             icon: stack-overflow
-        twitter:
-            title: Twitter
-            url: https://twitter.com/thetalecrafter
-            icon: twitter
+        # twitter:
+        #     title: Twitter
+        #     url: https://twitter.com/thetalecrafter
+        #     icon: twitter
         # facebook:
         #     title: Facebook
         #     url: https://www.facebook.com/
