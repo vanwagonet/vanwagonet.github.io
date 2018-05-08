@@ -12,7 +12,7 @@ date: 2018-05-08 14:53:58
 ---
 
 
-Figuring out who we are, how to understand, describe, and present that to other people is a tough challenge. People are complex and dynamic, and rarely fit nicely into some category. Do the things we call ourselves influence who we are?
+Figuring out who we are and how to understand, describe, and present that to other people is a tough challenge. People are complex and dynamic, and rarely fit nicely into some category. Do the things we call ourselves influence who we are?
 
 We are <del>all</del> usually given an identifier at birth, called a name. They aren't necessarily unique, but often close enough. I am "Andrew Henry Van Wagoner". This name is supposed to represent all of me.
 
@@ -38,6 +38,4 @@ Alas, several services I rely on do not think `.family` is a valid way to end an
 
 Finally a straw broke the camel's back, and I decided it was time to really ditch thetalecrafter. The handle, the email address, and the website (this one). On a whim I was looking at domain names, and found that `vanwago.net` was available. That would be a solid alias for `vanwagoner.family`, using a TLD that even AOL recognizes. Once I had the domain, I figured it didn't make a terrible handle either.
 
-Hi, I'm "vanwagonet". I'm not on Facebook or Twitter these days, but I am on [GitHub](https://github.com/vanwagonet) and [LinkedIn](https://www.linkedin.com/in/andrewvanwagoner), and every few years I write things down on [this site](https://andy.vanwago.net). I may [spin some tales](/2015/07/25/jumping-the-fold/) [in the future](/2015/06/23/breathless-in-a-new-world/), but even if I don't, I'll still be Andy VanWagoner.
-
-<script type="module">alert('hi!')</script>
+Hi, I'm "vanwagonet". I'm not on Facebook or Twitter these days, but I am on [GitHub](https://github.com/vanwagonet) and [LinkedIn](https://www.linkedin.com/in/andrewvanwagoner), and every now and then I write things down on [this site](https://andy.vanwago.net). I may [spin some tales](/2015/07/25/jumping-the-fold/) [in the future](/2015/06/23/breathless-in-a-new-world/), but even if I don't, I'll still be Andy VanWagoner.
