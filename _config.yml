@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: The TaleCrafter’s Scribbles
+title: Andy’s Scribbles
 subtitle: your JavaScript is showing.
 description:
 author: Andy VanWagoner
@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.thetalecrafter.com
+url: https://andy.vanwago.net
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
