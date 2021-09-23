@@ -79,3 +79,4 @@ theme: eden
 deploy:
   type: git
   repo: git@github.com:vanwagonet/vanwagonet.github.io.git
+  branch: master
